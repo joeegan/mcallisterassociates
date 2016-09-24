@@ -39,7 +39,6 @@ $(function(){
       ev.preventDefault();
    });
 
-//   $('#complaints').modal();
    $('#legal').modal({
       show: false
    });
